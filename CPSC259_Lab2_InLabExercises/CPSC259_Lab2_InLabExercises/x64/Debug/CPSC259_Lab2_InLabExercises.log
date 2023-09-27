@@ -1,0 +1,5 @@
+﻿  lab2_in-lab_exercises.c
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(49,21): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(75,21): warning C4013: 'strstr' undefined; assuming extern returning int
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_InLabExercises\lab2_in-lab_exercises.c(75,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  CPSC259_Lab2_InLabExercises.vcxproj -> C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_InLabExercises\x64\Debug\CPSC259_Lab2_InLabExercises.exe

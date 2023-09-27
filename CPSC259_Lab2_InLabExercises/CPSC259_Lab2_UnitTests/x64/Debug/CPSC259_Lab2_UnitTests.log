@@ -1,0 +1,2 @@
+﻿  unittest1.cpp
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_InLabExercises\CPSC259_Lab2_UnitTests\unittest1.cpp(252,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

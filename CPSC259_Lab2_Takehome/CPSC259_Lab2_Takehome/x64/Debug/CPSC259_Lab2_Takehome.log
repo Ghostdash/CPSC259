@@ -1,0 +1,8 @@
+﻿  dna.c
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(142,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(145,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(189,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(192,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(343,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_Takehome\CPSC259_Lab2_Takehome\dna.c(344,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CPSC259_Lab2_Takehome.vcxproj -> C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab2_Takehome\x64\Debug\CPSC259_Lab2_Takehome.exe

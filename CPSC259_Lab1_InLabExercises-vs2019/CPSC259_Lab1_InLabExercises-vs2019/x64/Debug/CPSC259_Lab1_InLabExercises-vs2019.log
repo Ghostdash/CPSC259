@@ -1,0 +1,5 @@
+﻿  lab1_inlab_exercises.c
+C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab1_InLabExercises-vs2019\CPSC259_Lab1_InLabExercises-vs2019\lab1_inlab_exercises.c(50,21): warning C4013: 'strlen' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+  CPSC259_Lab1_InLabExercises-vs2019.vcxproj -> C:\Users\weiya\OneDrive\Desktop\CPSC codes\CPSC259_Lab1_InLabExercises-vs2019\x64\Debug\CPSC259_Lab1_InLabExercises-vs2019.exe
